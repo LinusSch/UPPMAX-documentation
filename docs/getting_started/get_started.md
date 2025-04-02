@@ -19,11 +19,11 @@ Once you or someone in your group or collaboration has a project, you must apply
 
 - [User account](user_account.md)
 
-Have an account already? Then check out these basic user guides:
+Have an account already? Then check out the login guides:
 
-- [Bianca first steps](login_bianca.md)
-- [Rackham first steps](login_rackham.md)
-- [Snowy first steps](login_snowy.md)
+- [Log in to Bianca](login_bianca.md)
+- [Log in to Rackham](login_rackham.md)
+- [Log in to Snowy](login_snowy.md)
 
 ## Students
 
